@@ -28,7 +28,7 @@ The row count and number of classes can be changed with `--rows` (at least 600) 
 
 ## c. GitHub repository link
 
-_Add your repository URL here, for example `https://github.com/<your-username>/Assignment2_ml`._
+https://github.com/deverakonda72/ml-assignment2
 
 ## d. Models used
 
